@@ -1,1 +1,3 @@
 i am making basic bash scripting
+hello
+
